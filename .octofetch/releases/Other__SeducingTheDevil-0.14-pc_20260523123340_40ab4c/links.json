@@ -1,0 +1,51 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-5977",
+  "folder": "Other__SeducingTheDevil-0.14-pc_20260523123340_40ab4c",
+  "base_name": "Other__SeducingTheDevil-0.14-pc_20260523123340_40ab4c.zip",
+  "is_split": true,
+  "part_count": 5,
+  "release_url": "https://github.com/johnno7755/Cloud-Downloads-3/releases/tag/co-releases-v1-5977",
+  "files": [
+    {
+      "name": "Other__SeducingTheDevil-0.14-pc_20260523123340_40ab4c.zip.part00",
+      "url": "https://github.com/johnno7755/Cloud-Downloads-3/releases/download/co-releases-v1-5977/Other__SeducingTheDevil-0.14-pc_20260523123340_40ab4c.zip.part00",
+      "api_url": "https://api.github.com/repos/johnno7755/Cloud-Downloads-3/releases/assets/427869818",
+      "id": 427869818,
+      "size": 1951813723,
+      "download_count": 0
+    },
+    {
+      "name": "Other__SeducingTheDevil-0.14-pc_20260523123340_40ab4c.zip.part01",
+      "url": "https://github.com/johnno7755/Cloud-Downloads-3/releases/download/co-releases-v1-5977/Other__SeducingTheDevil-0.14-pc_20260523123340_40ab4c.zip.part01",
+      "api_url": "https://api.github.com/repos/johnno7755/Cloud-Downloads-3/releases/assets/427870523",
+      "id": 427870523,
+      "size": 1951813723,
+      "download_count": 0
+    },
+    {
+      "name": "Other__SeducingTheDevil-0.14-pc_20260523123340_40ab4c.zip.part02",
+      "url": "https://github.com/johnno7755/Cloud-Downloads-3/releases/download/co-releases-v1-5977/Other__SeducingTheDevil-0.14-pc_20260523123340_40ab4c.zip.part02",
+      "api_url": "https://api.github.com/repos/johnno7755/Cloud-Downloads-3/releases/assets/427871370",
+      "id": 427871370,
+      "size": 1951813723,
+      "download_count": 0
+    },
+    {
+      "name": "Other__SeducingTheDevil-0.14-pc_20260523123340_40ab4c.zip.part03",
+      "url": "https://github.com/johnno7755/Cloud-Downloads-3/releases/download/co-releases-v1-5977/Other__SeducingTheDevil-0.14-pc_20260523123340_40ab4c.zip.part03",
+      "api_url": "https://api.github.com/repos/johnno7755/Cloud-Downloads-3/releases/assets/427872010",
+      "id": 427872010,
+      "size": 1951813723,
+      "download_count": 0
+    },
+    {
+      "name": "Other__SeducingTheDevil-0.14-pc_20260523123340_40ab4c.zip.part04",
+      "url": "https://github.com/johnno7755/Cloud-Downloads-3/releases/download/co-releases-v1-5977/Other__SeducingTheDevil-0.14-pc_20260523123340_40ab4c.zip.part04",
+      "api_url": "https://api.github.com/repos/johnno7755/Cloud-Downloads-3/releases/assets/427872639",
+      "id": 427872639,
+      "size": 1951813723,
+      "download_count": 0
+    }
+  ]
+}
